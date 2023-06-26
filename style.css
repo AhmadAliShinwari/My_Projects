@@ -1,0 +1,155 @@
+
+
+.bgimg{
+
+    
+    
+    background-image: url("./background.png");
+}
+
+body{
+    background-image:url('./background.png');
+    background-attachment:fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+/* CSS for the navigation bar */
+ header {
+  
+  padding: 10px;
+  display: flex;
+  align-items: center;
+}
+
+nav {
+  margin-left: 20px;
+  background-color: rgb(230, 68, 68);
+  display: flex;
+  justify-content: center;
+  width: 100vw;
+
+ 
+ 
+ 
+}
+
+nav a {
+  margin-right: 10px;
+  text-decoration: none;
+  color: #ffffff;
+  font-size: 40px;
+  text-align: center;
+  font-weight: bold;
+  font-style: ;
+}
+
+
+
+.para{
+font-size: 30px;
+color: rgb(0, 0, 0);
+padding-left: 10px; 
+}
+.logo {
+  max-width: 250px;
+  height: auto;
+}
+.company-info{
+  background-color: rgb(231, 231, 231);
+  height: 210px;
+  width: 91%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  
+}
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.job-listing {
+  margin-bottom: 20px;
+  padding: 10px;
+  border: 1px solid #ccc;
+}
+
+.job-listing h2 {
+  margin-top: 0;
+}
+
+.apply-button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #4CAF50;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 4px;
+}
+
+.apply-button:hover {
+  background-color: #45a049;
+}
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+h2{
+    color: white;
+}
+p{
+    color: white;
+}
+
+.apply-form {
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.form-group {
+  margin-bottom: 15px;
+  color: white;
+}
+
+label {
+  display: block;
+  font-weight: bold;
+}
+
+input[type="text"],
+input[type="email"],
+textarea {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.submit-button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #4CAF50;
+  color: #fff;
+  text-decoration: none;
+  border: none;
+  border-radius: 4px;
+}
+
+.submit-button:hover {
+  background-color: #45a049;
+}
+
